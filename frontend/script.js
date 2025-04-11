@@ -30,7 +30,7 @@
 //         } else {
 //           document.getElementById('configResult').innerText = 'Drone config not found';
 //         }
-const API_HOST = window.API_HOST || "http://localhost:4001";
+const API_HOST = window.API_HOST || "https://webapp32.onrender.com";
 let currentPage = 1;
 const pageSize = 25;
 function showPage(pageId) {

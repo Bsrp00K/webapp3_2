@@ -1,13 +1,6 @@
-65011075  สรพัศ พิศิลป์
-
-
-
-
+65011075 สรพัศ พิศิลป์
 
 กรณีใช้ localhost
 
 
-
-ใน script.js เปลี่ยน http ด้านเป็นตามนี้
-
-const API_HOST = window.API_HOST || "http://localhost:4001";
+ใน Terminal รันคำสั่ง node index.js  เข้าตามนี้ --> "http://localhost:4001"
